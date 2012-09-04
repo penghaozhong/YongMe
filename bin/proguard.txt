@@ -1,0 +1,50 @@
+# view res/layout/activity_map.xml #generated:7
+# view res/layout/activity_sign.xml #generated:73
+-keep class com.baidu.mapapi.MapView { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.kids21.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.kids21.activity.MapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.kids21.activity.NearByActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.kids21.activity.SignActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class com.kids21.activity.TestRolateAnimActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.kids21.activity.UserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.kids21.activity.UserAvatarActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.kids21.sjb.Kids21Application { <init>(...); }
+
+# view res/layout/activity_nearby.xml #generated:17
+# view res/layout/activity_nearby.xml #generated:28
+# view res/layout/activity_nearby.xml #generated:42
+# view res/layout/activity_nearby.xml #generated:55
+# view res/layout/activity_nearby.xml #generated:68
+# view res/layout/activity_nearby.xml #generated:79
+# view res/layout/activity_user.xml #generated:38
+# view res/layout/activity_user.xml #generated:52
+# view res/layout/activity_user.xml #generated:65
+-keep class com.kids21.view.ItemView { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:22
+# view res/layout/activity_main.xml #generated:27
+# view res/layout/activity_main.xml #generated:33
+# view res/layout/activity_main.xml #generated:39
+-keep class com.kids21.view.MyImageView { <init>(...); }
+
+# view res/layout/activity_nearby.xml #generated:9
+# view res/layout/activity_sign.xml #generated:9
+# view res/layout/activity_user.xml #generated:9
+-keep class com.kids21.view.MyTitle { <init>(...); }
+
